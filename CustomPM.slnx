@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CustomPM.API/CustomPM.API.csproj" />
+  <Project Path="CustomPM.Application/CustomPM.Application.csproj" />
+  <Project Path="CustomPM.Domain/CustomPM.Domain.csproj" />
+  <Project Path="CustomPM.Infrastructure/CustomPM.Infrastructure.csproj" />
+</Solution>
